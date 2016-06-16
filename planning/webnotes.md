@@ -7,5 +7,11 @@ Index Page
 -Fruit page
   -Name: eg. Apple
     -Type: eg. granny smith, washington, gala, sweet lady
+    -Nutritional value
   -Pick: Instruction on how to pick ripest
   -Season: Best season to buy
+
+-Technology
+  -Mongo DB
+  -Rails Framework
+  -frontend : JS, Angular.js/React
